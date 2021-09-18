@@ -52,9 +52,3 @@ const Projects = () => {
 
 export default Projects
 
-
-
-// <div className="mt-4"><FontAwesomeIcon icon={faEnvelope} className="mx-2" />piecemaster780@gmail.com</div>
-// <div className="mt-2"><FontAwesomeIcon icon={faGithub}  className="mx-2"/>  github.com/Arushay</div>
-// <div className="mt-2"><FontAwesomeIcon icon={faTwitterSquare} className="mx-2"/>  twitter.com/EmanDin1</div>
-// <div className="mt-2"><FontAwesomeIcon icon={faInstagramSquare} className="mx-2"/>  @Eman</div>

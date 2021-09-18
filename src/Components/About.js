@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 
-// src={require('./Eman.png').default}
 const About = () => {
 
 
